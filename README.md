@@ -44,5 +44,5 @@ was investigated using industry-standard SOC tools and documented.
 - T1090.002 — Proxy
 ## Files
 
-[Phishing-Case-File.pdf](https://linktodocumentation)
+[Phishing-Case-File.pdf](https://github.com/raiaman35/phishing-investigation-case-file/blob/af321dc0e120c0fbc1eb2f283ec4ec4ba54d70ba/Files/Phishing-Case-File.pdf)
 
